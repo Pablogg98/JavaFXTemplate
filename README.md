@@ -1,3 +1,3 @@
-# JavaFXTemplate
+# BuscarYReemplazar
 
-Plantilla para nuevos proyectos JavaFX con Maven.
+Buscar y Reemplazar con Javafx.
