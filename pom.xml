@@ -5,6 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>EstanciasHibernate_PABLOGARCIA</name>
   <description>EstanciasHibernate</description>
+  <artifactId>BuscarYReemplazar</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>BuscarYReemplazar</name>
+  <description>Buscar y Reemplazar con Javafx</description>
   
   <properties>
 		<maven.compiler.target>11</maven.compiler.target>
