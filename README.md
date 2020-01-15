@@ -1,3 +1,3 @@
-# JavaFXTemplate
+# InicioSesionMVC
 
-Plantilla para nuevos proyectos JavaFX con Maven.
+Inicio de Sesion con MVC.
